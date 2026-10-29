@@ -1,5 +1,7 @@
 # Printer Password Recovery Prototype — private archive
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Экспериментальный Playwright-прототип для проверки поведения login-формы устройства под нагрузкой вариантов пароля.
 
 ## Решение по аудиту
